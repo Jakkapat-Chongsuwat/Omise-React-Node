@@ -1,0 +1,6 @@
+[submodule "Omise-React-Node-Backend"]
+	path = Omise-React-Node-Backend
+	url = https://github.com/Jakkapat-Chongsuwat/Omise-React-Node-Backend.git
+[submodule "Omise-React-Node-Frontend"]
+	path = Omise-React-Node-Frontend
+	url = https://github.com/Jakkapat-Chongsuwat/Omise-React-Node-Frontend.git
